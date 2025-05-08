@@ -25,26 +25,14 @@ Our repositories are organized into several categories:
 - 📊 Data Analysis Scripts
 - 🔧 Utilities
 
-## 🤝 Collaboration
-
-We collaborate with various institutions and partners across Indonesia and internationally. Our work supports research activities in:
-- Jakarta
-- Sumatra
-- Java
-- Bali
-- Alor
-- Sumba
-
 ## 🔗 Important Links
 
 - [OUCRU Indonesia Website](https://www.oucru.org/location/oucru-indonesia/)
-- [Faculty of Medicine University of Indonesia](https://fk.ui.ac.id/)
 
 ## 📫 Contact Us
 
 - Email: info@oucru.org
 - Phone: + 62 21 3190 0971
-- Location: Fakultas Kedokteran Universitas Indonesia (FKUI), Jl. Salemba Raya No. 6, Jakarta, Indonesia
 
 ---
 
