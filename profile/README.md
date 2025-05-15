@@ -28,12 +28,6 @@ Our repositories are organized into several categories:
 ## 🔗 Important Links
 
 - [OUCRU Indonesia Website](https://www.oucru.org/location/oucru-indonesia/)
-
-## 📫 Contact Us
-
-- Email: info@oucru.org
-- Phone: + 62 21 3190 0971
-
 ---
 
 <div align="center">
